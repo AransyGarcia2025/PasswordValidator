@@ -33,4 +33,11 @@ Los resultados se muestran en consola y se guardan automáticamente en el archiv
     ├── PasswordValidator.java # Clase encargada de validar cada contraseña 
           ├── validacion_resultados.txt # Archivo de salida con los resultados de las validaciones
               └── README.md # Este documento
-              
+
+
+
+## Ejecución 🚀
+
+1. Compilar el proyecto:
+   bash javac PasswordValidatorApp.java PasswordValidator.java
+
